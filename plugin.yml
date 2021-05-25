@@ -1,7 +1,7 @@
 ---
 name: HeatmapChunkLoader
 main: xenialdan\HeatmapChunkLoader\Loader
-version: 0.0.0
+version: 0.0.1
 api: ["4.0.0"]
 load: STARTUP
 authors:

@@ -1,6 +1,6 @@
 ---
-# TODO
-period: '5 minutes'
-# Amount of chunk load events within the period to keep this chunk loaded
-treshold: 3
+# Delay between recalculations
+period: 1 minute
+# Threshold in percentage (0-100). Example: 20% causes the 20% most frequently loaded chunks to stay loaded
+threshold: 20
 ...
