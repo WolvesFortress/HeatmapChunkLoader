@@ -1,0 +1,6 @@
+---
+# TODO
+period: '5 minutes'
+# Amount of chunk load events within the period to keep this chunk loaded
+treshold: 3
+...

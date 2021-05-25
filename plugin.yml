@@ -1,0 +1,20 @@
+---
+name: HeatmapChunkLoader
+main: xenialdan\HeatmapChunkLoader\Loader
+version: 0.0.0
+api: ["4.0.0"]
+load: STARTUP
+authors:
+- XenialDan
+description: Keep frequently used chunks loaded longer
+website: https://github.com/WolvesFortress/HeatmapChunkLoader
+permissions:
+  heatmap:
+    default: op
+  heatmap.list:
+    default: op
+  heatmap.export:
+    default: op
+  heatmap.reset:
+    default: op
+...
